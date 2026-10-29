@@ -4,7 +4,7 @@ Hi! Liable for Damages is a ~30 minute game about escaping an alien overrun spac
 
 otherwise, thanks for taking time out of your day to play my game (hopefully), and please comment any bugs that befall you!
 
-This game was developed from early July 2026 to late September, it took me, and only me, over 200 hours of blood sweat and tears to complete. There are so many things I would do differently, but this has been one of the best learning experiences of my life.
+This game was developed from early July 2026 to late October, it took me, and only me, over 200 hours of blood sweat and tears to complete. There are so many things I would do differently, but this has been one of the best learning experiences of my life.
 
 Game Basics:
 
