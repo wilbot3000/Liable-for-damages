@@ -8,7 +8,20 @@ This game was developed from early July 2026 to late October, it took me, and on
 
 Game Basics:
 
-Little game about bugs and puzzles, should take like ~30 minutes, there is A save system, but I wouldn't trust it (gulp) Controls are explained in the first level, but in basic, -left click on certain objects to interact -wasd or arrow keys to move -shift to sprint -q to dash (while moving) -ctrl to crouch -crouch while sprinting to slide -space or w to jump -jump while sliding to jump higher and vault -space whilst next to a ledge to hoist yourself -f to attack -hold f for long attack
+Little game about bugs and puzzles, should take like ~30 minutes, there is A save system, but I wouldn't trust it (gulp) Controls are explained in the first level, but in basic, 
+-left click on certain objects to interact
+-wasd or arrow keys to move 
+-shift to sprint 
+-q to dash (while moving) 
+-ctrl to crouch 
+-crouch while sprinting to slide 
+-space or w to jump 
+-jump while sliding to jump higher and vault
+-space whilst next to a ledge to hoist yourself
+-f to attack
+-hold f for long attack 
+-f11 for fullscreen
+-esc or tab for menu
 
 Features (?)
 
