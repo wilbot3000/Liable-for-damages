@@ -19,12 +19,17 @@ Little game about bugs and puzzles, should take like ~30 minutes, there is A sav
 -q to dash (while moving) 
 
 -ctrl to crouch 
+
 -crouch while sprinting to slide 
+
 -space or w to jump 
+
 -jump while sliding to jump higher and vault
+
 -space whilst next to a ledge to hoist yourself
--f to attack
--hold f for long attack 
+
+-f to attack or hold for long
+
 -f11 for fullscreen
 -esc or tab for menu
 
